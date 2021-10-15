@@ -1,0 +1,1 @@
+CP es un comando que sirve para realizar copias de archivos. Primero se debe poner el nombre del archivo que hay que copiar y en segundo lugar indicar el destino
